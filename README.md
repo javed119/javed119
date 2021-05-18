@@ -1,0 +1,3 @@
+- 👋 Hi, I’m javed
+- 👀 I’m interested in java,springboot
+- 🌱 I’m currently learning java,springboot,python
